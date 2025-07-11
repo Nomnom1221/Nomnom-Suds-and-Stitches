@@ -1,0 +1,54 @@
+
+element.style {
+    --frame-width: 543px;
+    --frame-scrollbar-width: 15px;
+    --vh: 5.78px;
+    --frame-scale-factor: 0.390625;
+}  
+
+:root {
+    --migration-banner-height: 66px;
+}
+
+html {
+    min-height: 100%;
+}
+
+html {
+    min-height: 100%;
+}
+html, body {
+    background-color: #f6f6f6;
+    height: 100%;
+    overflow: hidden;
+}
+html {
+    letter-spacing: normal;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-text-size-adjust: none;
+    font: 400 12px / 22px Clarkson, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+html {
+    height: 100%;
+    overflow: hidden;
+}
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+@media screen and (max-width: 432px) {
+    * {
+        touch-action: manipulation;
+    }
+}
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+user agent stylesheet
+:root {
+    view-transition-name: root;
+}
+user agent stylesheet
+html {
+    display: block;
+}
